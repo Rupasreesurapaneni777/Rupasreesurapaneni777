@@ -42,5 +42,5 @@ A Machine Learning project that predicts potential blood donors using historical
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile link here
+* 💼 LinkedIn:https://www.linkedin.com/in/surapaneni-rupasree/
 * 💻 GitHub: https://github.com/Rupasreesurapaneni777
