@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rupa Sree
+# Hi there 👋, I'm Surapaneni Rupa Sree
 
 🎓 B.Tech Graduate in **Artificial Intelligence and Data Science**
 💻 Passionate about **Data Analytics, Python, SQL, Machine Learning, and Computer Vision**
